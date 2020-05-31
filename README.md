@@ -20,7 +20,7 @@ This component is compatible with React Native 0.25 and newer.
 ## Installation
 
 ```
-npm install react-native-smart-corner-label --save
+npm install https://github.com/abdullahsherazi/react-native-smart-corner-label --save
 ```
 
 ## Full Demo
